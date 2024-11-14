@@ -407,7 +407,7 @@ emph:hover {
 .sk-wrapper:nth-child(1){
     background: url(image/java.png) no-repeat center;
     background-size: cover;
-    filter: grayscale(100%);
+    filter: grayscale(50%);
     transition: ease-in-out 500ms;
 }
 .sk-wrapper:nth-child(1):hover{
@@ -417,7 +417,7 @@ emph:hover {
 .sk-wrapper:nth-child(2){
     background: url(image/py.png) no-repeat center;
     background-size: cover;
-    filter: grayscale(100%);
+    filter: grayscale(50%);
     transition: ease-in-out 500ms;
 }
 .sk-wrapper:nth-child(2):hover{
@@ -427,7 +427,7 @@ emph:hover {
 .sk-wrapper:nth-child(3){
     background: url(image/php.png) no-repeat center;
     background-size: cover;
-    filter: grayscale(100%);
+    filter: grayscale(50%);
     transition: ease-in-out 500ms;
 }
 .sk-wrapper:nth-child(3):hover{
@@ -437,7 +437,7 @@ emph:hover {
 .sk-wrapper:nth-child(4){
     background: url(image/js.png)no-repeat center;
     background-size: cover;
-    filter: grayscale(100%);
+    filter: grayscale(50%);
     transition: ease-in-out 500ms;
 }
 .sk-wrapper:nth-child(4):hover{
